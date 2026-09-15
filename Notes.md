@@ -8,3 +8,6 @@ https://github.com/avizway1/ansible
 
 phythion should be installed in both control and managed node
 <img width="2552" height="1044" alt="image" src="https://github.com/user-attachments/assets/bf153ccb-a6e7-43c5-ae92-815e9145edb3" />
+
+
+we dont use root a common user is used with clinet and server
