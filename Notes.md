@@ -18,3 +18,9 @@ try to install tree command and observations
 
 
 <img width="3024" height="1520" alt="image" src="https://github.com/user-attachments/assets/3df7e9cb-7d1e-41e4-b2b0-79336b549f01" />
+
+
+
+
+<img width="2698" height="1504" alt="image" src="https://github.com/user-attachments/assets/c4413e0e-e142-4acd-815a-326742af6f72" />
+
