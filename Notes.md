@@ -28,3 +28,7 @@ try to install tree command and observations
 
 search in google
 ansible modules list
+
+
+<img width="978" height="506" alt="image" src="https://github.com/user-attachments/assets/ecd40be5-8b19-459a-81f5-123af9b65524" />
+
