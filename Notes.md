@@ -41,4 +41,5 @@ ansible modules list
 
 <img width="2964" height="1254" alt="image" src="https://github.com/user-attachments/assets/4b2b0044-d00f-4237-b24d-ddf106a4e956" />
 
+<img width="2742" height="840" alt="image" src="https://github.com/user-attachments/assets/fd578068-4d66-45c0-a2c0-21b81535cc5d" />
 
